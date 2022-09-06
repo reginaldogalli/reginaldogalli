@@ -19,6 +19,7 @@
 <img width="5%" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.png" /> 
 <img width="5%" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" /> 
 
+
 ##
 <div>
 <a href="mailto:reginaldo.galli@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
