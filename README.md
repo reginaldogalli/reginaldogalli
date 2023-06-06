@@ -15,7 +15,7 @@
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />   
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
 <img width="5%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" /> 
-<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br>
 
 <div>
 <a href="mailto:reginaldo.galli@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
