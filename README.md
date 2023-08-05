@@ -1,7 +1,6 @@
 ## Reginaldo G. Santos
 
-- ⚙️ Hoje trabalho como Técnico em Automação Industrial 
-- 🖥️ Estudando Análise e Desenvolvimento de Sistemas
+- 🖥️ Analista de sistemas
 
 
 <!--<div>
