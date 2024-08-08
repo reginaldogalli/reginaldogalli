@@ -1,22 +1,17 @@
-## Reginaldo G. Santos
+# Reginaldo G Santos
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldogalli/)
+## Habilidades
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-- 🖥️ Analista de sistemas
 
 
-<!--<div>
-<a href="https://github.com/reginaldogalli">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=reginaldogalli&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=dark">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=reginaldogalli&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-
-</div>-->
-
-<div style="display in line_block"><br>
-<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />   
-<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
-<img width="5%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" /> 
-<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br>
-
-<div>
-<a href="mailto:reginaldo.galli@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
-<a href="https://www.linkedin.com/in/reginaldogalli/" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
-</div>
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=00raoni&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## Linguagens mais usadas
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=00raoni&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
